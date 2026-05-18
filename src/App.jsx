@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import Nav from './components/Nav'
 import Footer from './components/Footer';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom'
@@ -66,5 +66,3 @@ function App() {
 }
 
 export default App;
-
-//Minute 17:04 on add to cart
